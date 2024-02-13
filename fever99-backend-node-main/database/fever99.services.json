@@ -1,0 +1,678 @@
+[{
+  "_id": {
+    "$oid": "64e110436e8e3e26e117c1ae"
+  },
+  "name": "Doctor Video Consultation",
+  "description": "Are you tired of long wait times at crowded clinics or the hassle of traveling to see a doctor? At Fever99.com, we understand that your health doesn't wait for convenience. \r\n\r\nThat's why we're excited to introduce our Video Consultation with a Doctor service, the latest addition to our complete healthcare solution that brings expert medical care right to your doorstep.",
+  "price": 150,
+  "image": "files/image-1697894447460-697510333.jpeg",
+  "createdAt": {
+    "$date": "2023-08-19T18:56:03.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-06T13:50:04.340Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "pinCode": [
+    "noida",
+    "delhi"
+  ],
+  "keyFeture": [
+    {
+      "key": "test key",
+      "featers": "test feture",
+      "_id": {
+        "$oid": "65102b8b0e84251e7182e6d0"
+      }
+    }
+  ],
+  "about": "<h2><strong>Video Consultation with Doctor:</strong></h2><p>Are you tired of long wait times at crowded clinics or the hassle of traveling to see a doctor? At Fever99.com, we understand that your health doesn't wait for convenience. That's why we're excited to introduce our Video Consultation with a Doctor service, the latest addition to our complete healthcare solution that brings expert medical care right to your doorstep.</p><p><strong>Experience Healthcare Like Never Before:</strong></p><ul><li><strong>Virtual Convenience: </strong>With our Video Consultation service, you can now consult with a qualified, experienced doctor from the comfort of your home or workplace. No more crowded waiting rooms or time-consuming commutes.</li><li><strong>Instant Access: </strong>We understand that health concerns can arise at any time. Our Video Consultations provide quick access to healthcare professionals, ensuring you get the advice and care you need when you need it.</li><li><strong>Expert Care: </strong>Our team of dedicated and highly skilled physicians is just a click away. Whether you have a minor health query, need a prescription, or want a follow-up consultation, our doctors are ready to assist you.</li><li><strong>Prescription and Referrals:</strong> If your condition requires medication, our doctors can provide e-prescriptions that are easily accessible through our platform. They can also refer you to specialists if needed, ensuring comprehensive care.</li><li><strong>Safe and Secure: </strong>Your health information is treated with the utmost privacy and security. Our platform is designed to safeguard your data and ensure that your medical consultations remain confidential.</li></ul><p><strong>How It Works:</strong></p><ol><li>Easy Booking: Schedule a Video Consultation at your convenience through our user-friendly platform.</li><li>Virtual Appointment: Connect with a licensed doctor via video call at your scheduled time.</li><li>Comprehensive Care: Discuss your symptoms, medical history, and concerns with the doctor, just as you would in a physical clinic.</li><li>Prescriptions and Referrals: Receive e-prescriptions and referrals, which you can access through your Fever99.com account.</li><li>Follow-up Care: Stay in touch with your doctor for follow-up consultations, ensuring your health journey remains on track.</li></ol><p>Fever99.com is more than a healthcare platform; it's a partner in your well-being. With our Video Consultation service, we are redefining healthcare accessibility, making it more convenient and patient-centric than ever. Say goodbye to the inconvenience of traditional healthcare and embrace the future of medical consultations.</p><p><br></p><p>Your health is precious, and at Fever99.com, we are committed to delivering comprehensive, convenient, and expert healthcare solutions right to your doorstep. Join us on this transformative healthcare journey today.</p>",
+  "slug": "doctor-video-consultation"
+},
+{
+  "_id": {
+    "$oid": "64e1113c48369de135517023"
+  },
+  "name": "Doctor at Home",
+  "description": "Are you seeking a healthcare experience that puts your well-being first? \r\n\r\nIntroducing our \"Doctors at Home\" service, a cornerstone of Fever99.com's complete healthcare solution, dedicated to bringing expert medical care to the comfort of your own space.",
+  "price": 500,
+  "image": "files/image-1697896711383-50105354.avif",
+  "createdAt": {
+    "$date": "2023-08-19T19:00:12.466Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T08:13:03.694Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "pinCode": [
+    "110096",
+    "110098"
+  ],
+  "keyFeture": [],
+  "slug": "doctor-at-home",
+  "about": "<h2><strong>Experience Personalized Healthcare with Doctors at Home Service</strong></h2><p><br></p><p>Are you seeking a healthcare experience that puts your well-being first? Introducing our \"Doctors at Home\" service, a cornerstone of Fever99.com's complete healthcare solution, dedicated to bringing expert medical care to the comfort of your own space.</p><p><strong>Elevate Your Healthcare Journey:</strong></p><ul><li><strong>House Calls: </strong>Our Doctors at Home service is a testament to convenience and personalized care. Say goodbye to the clinic wait times and hello to the doctor's visit in the comfort of your own home.</li><li><strong>Personalized Attention:</strong> Our experienced and compassionate doctors are committed to understanding your unique healthcare needs. This personal touch ensures you receive the attention you deserve.</li><li><strong>Flexible Scheduling: </strong>We recognize that health concerns don't follow a schedule. Our flexible appointment times make it easy for you to access expert medical care at a time that suits you best.</li><li><strong>Comprehensive Care:</strong> Discuss your medical history, symptoms, and health goals with the doctor just as you would in a traditional clinic. Our doctors provide a range of services, from routine check-ups to specific treatments.</li><li><strong>Medication and Referrals: </strong>If your health requires medication or specialized care, our doctors can provide prescriptions and referrals, ensuring that your health journey remains seamless.</li></ul><p><strong>How It Works:</strong></p><ul><li><strong>Book with Ease: </strong>Schedule a doctor's visit at your home with a few simple clicks on our platform.</li><li><strong>House Call: </strong>Our experienced and compassionate doctor will visit you at your home at the scheduled time.</li><li><strong>Personal Consultation:</strong> Discuss your health concerns with the doctor, who will provide a thorough examination and answer any questions you may have.</li><li><strong>Prescriptions and Referrals:</strong> If needed, the doctor will provide e-prescriptions and referrals that you can easily access through your Fever99.com account.</li><li><strong>Follow-up Care: </strong>Stay connected with your doctor for follow-up consultations, ensuring that your health continues to improve.</li></ul><p>Fever99.com's \"Doctors at Home\" service is designed to provide you with a healthcare experience that is tailored to your needs and lifestyle. We understand that your health is a precious asset, and our commitment is to ensure you receive the most convenient, comprehensive, and expert healthcare services right at your doorstep.</p><p><br></p><p>Join us in embracing a healthcare journey that is centered around you. Experience healthcare in a way that prioritizes your well-being and makes doctor visits hassle-free and personalized.</p>"
+},
+{
+  "_id": {
+    "$oid": "64e1114948369de135517025"
+  },
+  "name": "Nurse at Home",
+  "description": "When it comes to healthcare, your comfort and convenience matter most. \r\n\r\nThat's why Fever99.com is proud to introduce our \"Nurse at Home\" service, a vital part of our complete healthcare solution, dedicated to bringing professional nursing care right to your doorstep.",
+  "price": 500,
+  "image": "files/image-1697897167806-718042753.jpeg",
+  "createdAt": {
+    "$date": "2023-08-19T19:00:25.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-13T15:25:58.328Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "pinCode": [
+    "110096",
+    "110097"
+  ],
+  "keyFeture": [],
+  "slug": "nurse-at-home",
+  "about": "<h2><strong>Exceptional Healthcare, Where You Need It: Nurse at Home Service</strong></h2><p><br></p><p>When it comes to healthcare, your comfort and convenience matter most. That's why Fever99.com is proud to introduce our \"Nurse at Home\" service, a vital part of our complete healthcare solution, dedicated to bringing professional nursing care right to your doorstep.</p><p><strong>Empower Your Health with Our Services:</strong></p><ul><li><strong>In-Home Nursing: </strong>Experience the comfort of receiving professional nursing care in the familiarity of your own home. Our compassionate nurses are here to provide the support you need.</li><li><strong>Personalized Care: </strong>Our highly trained nurses understand that every patient is unique. They tailor their care to your specific needs, ensuring you receive the attention you deserve.</li><li><strong>Flexible Scheduling: </strong>Your health concerns may arise at any time. Our service offers flexible scheduling, allowing you to access nursing care at a time that suits you best.</li><li><strong>Comprehensive Services: </strong>From wound care and medication administration to post-operative support and elderly care, our nurses offer a wide range of services to meet your healthcare needs.</li><li><strong>Peace of Mind: </strong>With Fever99.com, you can rest easy knowing that professional nursing care is just a phone call away. We are committed to your health and peace of mind.</li></ul><p><strong>How It Works:</strong></p><p><br></p><p><strong>Book with Ease: </strong>Schedule a nursing visit with a few simple clicks on our platform.</p><ul><li><strong>Nurse's Visit: </strong>Our experienced and compassionate nurse will arrive at your home as scheduled.</li><li><strong>Personalized Care:</strong> Receive personalized nursing care, which may include wound dressings, medication management, or other nursing services based on your requirements.</li><li><strong>Health and Well-Being: </strong>Our nurses are dedicated to your health and well-being. They will ensure that you are comfortable and receiving the care you need.</li><li><strong>Follow-up Care: </strong>For ongoing healthcare needs, our nurses will continue to provide the support you require, ensuring your health is on the right track.</li></ul><p><br></p><p>Fever99.com's \"Nurse at Home\" service is designed to offer you a healthcare experience that prioritizes your comfort and well-being. We understand that your health is invaluable, and our goal is to make sure you receive the most convenient, comprehensive, and professional nursing care at your doorstep.</p><p><br></p><p>Join us in embracing a healthcare journey that is centered around you. Discover the convenience and peace of mind that comes with having professional nursing care delivered right to your home.</p>"
+},
+{
+  "_id": {
+    "$oid": "64e1115648369de135517027"
+  },
+  "name": "Diagnostic Services at Home",
+  "description": "Are you looking for the convenience of comprehensive diagnostic services without the hassle of leaving your home? \r\n\r\nFever99.com is thrilled to introduce our \"Diagnostic Services,\" a vital part of our complete healthcare solution, dedicated to bringing accurate and efficient diagnostics right to your doorstep.",
+  "price": 500,
+  "image": "files/image-1697900243888-167364503.jpeg",
+  "createdAt": {
+    "$date": "2023-08-19T19:00:38.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T09:18:19.114Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "keyFeture": [],
+  "pinCode": [
+    "Faridabad",
+    "121002"
+  ],
+  "slug": "diagnostic-services-at-home",
+  "about": "<h2><strong>Discover Your Health, Right at Home: Diagnostic Services</strong></h2><p><br></p><p>Are you looking for the convenience of comprehensive diagnostic services without the hassle of leaving your home? Fever99.com is thrilled to introduce our \"Diagnostic Services,\" a vital part of our complete healthcare solution, dedicated to bringing accurate and efficient diagnostics right to your doorstep.</p><p><br></p><p><strong>Elevate Your Healthcare Experience:</strong></p><p><br></p><ul><li><strong>Home-Based Testing: </strong>Say goodbye to long queues and crowded diagnostic centers. Our Diagnostic Services enable you to have essential tests conducted in the comfort of your home.</li></ul><p><br></p><ul><li><strong>Accurate Results: </strong>Our state-of-the-art diagnostic equipment and experienced technicians ensure the utmost precision in your test results. You can trust the accuracy of our reports.</li></ul><p><br></p><ul><li><strong>Wide Range of Tests: </strong>Whether it's routine blood work, specialized health screenings, or pathology tests, our Diagnostic Services cover a broad spectrum of diagnostic needs to keep you in the pink of health.</li></ul><p><br></p><ul><li><strong>Convenient Scheduling: </strong>Our user-friendly platform allows you to schedule diagnostic tests at your convenience. No more adjusting your schedule to fit healthcare appointments.</li></ul><p><br></p><ul><li><strong>Timely Reports: </strong>Receive your test reports digitally, and easily access them through your Fever99.com account, empowering you to make informed decisions about your health.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Simple Booking: </strong>Schedule your diagnostic tests with just a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>At-Home Sample Collection: </strong>Our trained professionals will visit your home at the scheduled time to collect samples, whether it's blood, urine, or other specimens.</li></ul><p><br></p><ul><li><strong>Laboratory Analysis: </strong>Your samples are analyzed in our state-of-the-art laboratories to ensure the utmost accuracy.</li></ul><p><br></p><ul><li><strong>Digital Reports: </strong>Your test reports are promptly made available through our secure online platform, allowing you to access them from the comfort of your home.</li></ul><p><br></p><ul><li><strong>Expert Guidance: </strong>Our team of experienced healthcare professionals is available to explain your reports and guide you on the necessary steps for your health journey.</li></ul><p><br></p><p>Fever99.com's Diagnostic Services are here to make healthcare accessible and convenient. Your health is too important to be delayed or compromised by the inconvenience of traditional diagnostic centers. With our service, you can enjoy a healthcare journey that prioritizes your comfort, time, and well-being.</p><p><br></p><p>Join us in embracing the future of healthcare, where diagnostic services are brought to your doorstep, providing you with the information you need to maintain and improve your health.</p>"
+},
+{
+  "_id": {
+    "$oid": "64e1117048369de13551702b"
+  },
+  "name": "ECG & X-Ray at Home",
+  "description": "Are you in need of ECG and X-ray services but dread the hassle of visiting a medical facility? \r\n\r\nLook no further than Fever99.com's \"ECG and X-Ray at Home\" service, a vital component of our complete healthcare solution, designed to bring diagnostic excellence right to your doorstep.",
+  "price": 500,
+  "image": "files/image-1697900735595-906781484.jpeg",
+  "createdAt": {
+    "$date": "2023-08-19T19:01:04.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-21T15:05:35.596Z"
+  },
+  "__v": 0,
+  "status": "active",
+  "pinCode": [
+    "Faridabad"
+  ],
+  "keyFeture": [],
+  "slug": "ecg-and-x-ray-at-home",
+  "about": "<h2><strong>ECG and X-Ray at Home</strong></h2><p><br></p><p>Are you in need of ECG and X-ray services but dread the hassle of visiting a medical facility? Look no further than Fever99.com's \"ECG and X-Ray at Home\" service, a vital component of our complete healthcare solution, designed to bring diagnostic excellence right to your doorstep.</p><p><br></p><p><strong>Convenient Diagnostics, Elevated Care:</strong></p><p><br></p><ul><li><strong>Home-Based ECG and X-Ray: </strong>Say goodbye to the daunting prospect of traveling to diagnostic centers. Our service offers the ease of ECG and X-ray tests performed in the comfort of your own home.</li></ul><p><br></p><ul><li><strong>Cutting-Edge Technology: </strong>We employ the latest diagnostic equipment and skilled technicians to guarantee the accuracy and precision of your test results.</li></ul><p><br></p><ul><li><strong>Comprehensive Diagnostic Services:</strong> From routine ECGs and X-rays to specialized cardiac assessments and radiological studies, our service covers a wide range of diagnostic needs, providing you with a holistic view of your health.</li></ul><p><br></p><ul><li><strong>Flexible Scheduling: </strong>Our user-friendly platform enables you to book appointments at your convenience, ensuring your healthcare journey aligns with your lifestyle.</li></ul><p><br></p><ul><li><strong>Prompt Reports:</strong> Access your ECG and X-ray reports online, conveniently available through your Fever99.com account. Quick and easy access to results allows for timely decision-making.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking: </strong>Schedule your ECG and X-ray tests effortlessly with a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>At-Home Testing: </strong>Our experienced technicians will visit your home at the scheduled time to perform the necessary tests, whether it's ECG or X-ray.</li></ul><p><br></p><ul><li><strong>Professional Analysis: </strong>Your tests are analyzed using state-of-the-art equipment and technology, ensuring the utmost accuracy and precision.</li></ul><p><br></p><ul><li><strong>Digital Reports:</strong> Receive your test reports digitally through our secure online platform, providing you with the convenience of accessing them from the comfort of your home.</li></ul><p><br></p><ul><li><strong>Expert Guidance: </strong>Our healthcare professionals are on hand to explain your reports, answer your questions, and guide you on the next steps for your health journey.</li></ul><p><br></p><p>Fever99.com's \"ECG and X-Ray at Home\" service aims to simplify and enhance your healthcare experience. Your health and well-being should never be compromised by the inconvenience of traditional diagnostic centers. With our service, you can enjoy the confidence of accurate diagnostics and the comfort of staying in your own space.</p><p><br></p><p>Join us in embracing the future of healthcare, where ECG and X-ray services are delivered right to your doorstep, offering you the information you need to make informed choices about your health.</p>"
+},
+{
+  "_id": {
+    "$oid": "6527f8b2c8b8463a04f68081"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "CT and MRI at Home",
+  "slug": "ct-and-mri-at-home",
+  "description": "Are you seeking advanced diagnostic services without the inconvenience of hospital visits? \r\n\r\nLook no further than Fever99.com's \"CT and MRI at Home\" service, a vital component of our complete healthcare solution, designed to bring cutting-edge diagnostic excellence right to your doorstep.",
+  "about": "<h2><strong>CT and MRI at Home</strong></h2><p><br></p><p>Are you seeking advanced diagnostic services without the inconvenience of hospital visits? Look no further than Fever99.com's \"CT and MRI at Home\" service, a vital component of our complete healthcare solution, designed to bring cutting-edge diagnostic excellence right to your doorstep.</p><p><br></p><p><strong>Advanced Diagnostics, Delivered to You:</strong></p><p><br></p><ul><li><strong>In-Home CT and MRI Scans:</strong> Bid farewell to the hassles of traveling to diagnostic centers. Our service brings the sophistication of CT and MRI scans to the comfort of your home.</li></ul><p><br></p><ul><li><strong>State-of-the-art technology: </strong>We employ the latest diagnostic equipment and experienced technicians to ensure the precision and accuracy of your test results.</li></ul><p><br></p><ul><li><strong>Comprehensive Diagnostic Services:</strong> From routine scans to specialized imaging and radiological assessments, our service covers a wide spectrum of diagnostic needs, offering a detailed view of your health.</li></ul><p><br></p><ul><li><strong>Flexible Scheduling: </strong>Our user-friendly platform allows you to book appointments at your convenience, ensuring your healthcare journey fits seamlessly into your lifestyle.</li></ul><p><br></p><ul><li><strong>Timely Reports:</strong> Access your CT and MRI reports online through your Fever99.com account. Quick and easy access to results enables you to make informed decisions about your health promptly.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Simple Booking:</strong> Schedule your CT and MRI scans with ease using our platform.</li></ul><p><br></p><ul><li><strong>At-Home Testing: </strong>Our experienced technicians will visit your home at the scheduled time to conduct the necessary scans.</li></ul><p><br></p><ul><li><strong>Professional Analysis: </strong>Your scans are analyzed using state-of-the-art technology, ensuring the utmost precision and accuracy.</li></ul><p><br></p><ul><li><strong>Digital Reports: </strong>Receive your test reports digitally through our secure online platform, allowing you to access them conveniently from your home.</li></ul><p><br></p><ul><li><strong>Expert Consultation: </strong>Our healthcare professionals are available to explain your reports, answer your queries, and provide guidance for your health journey.</li></ul><p><br></p><p>Fever99.com's \"CT and MRI at Home\" service aims to redefine advanced diagnostics with simplicity and comfort. Your health and well-being deserve nothing less. With our service, you can confidently access the most advanced diagnostic services while enjoying the convenience of staying in your own surroundings.</p><p><br></p><p>Join us in embracing the future of healthcare, where CT and MRI scans are delivered to your doorstep, empowering you with the information you need to take charge of your health.</p>",
+  "price": 900,
+  "pinCode": [
+    ""
+  ],
+  "image": "files/image-1697970919089-620257388.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6527f8b2c8b8463a04f68082"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-12T13:46:26.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T10:35:19.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65281459c8b8463a04f6821a"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Physiotherapy at Home",
+  "slug": "physiotherapy-at-home",
+  "description": "Are you in need of physiotherapy to regain your strength and mobility but dreading the inconvenience of clinic visits? \r\n\r\nLook no further than Fever99.com's \"Physiotherapy at Home\" service, a key element of our comprehensive healthcare solution, designed to bring professional physiotherapy right to your doorstep.",
+  "about": "<h2><strong>Physiotherapy at Home</strong></h2><p><br></p><p>Are you in need of physiotherapy to regain your strength and mobility but dreading the inconvenience of clinic visits? Look no further than Fever99.com's \"Physiotherapy at Home\" service, a key element of our comprehensive healthcare solution, designed to bring professional physiotherapy right to your doorstep.</p><p><br></p><p><strong>Regain Strength and Mobility on Your Terms:</strong></p><p><br></p><ul><li><strong>At-Home Physiotherapy: </strong>Say goodbye to the need to travel to clinics. Our service offers the comfort of physiotherapy sessions right in the familiar surroundings of your own home.</li></ul><p><br></p><ul><li><strong>Experienced Therapists: </strong>Our team of skilled physiotherapists is dedicated to helping you regain your mobility and lead a healthier life. They bring years of experience to your doorstep.</li></ul><p><br></p><ul><li><strong>Personalized Treatment: </strong>Our physiotherapists understand that every patient is unique. They create customized treatment plans to address your specific needs and goals.</li></ul><p><br></p><ul><li><strong>Flexible Scheduling: </strong>Our user-friendly platform allows you to book appointments at a time that suits you best. No more rearranging your schedule to accommodate healthcare appointments.</li></ul><p><br></p><ul><li><strong>Progress Tracking:</strong> Our therapists not only provide therapy but also monitor your progress. This ensures that your recovery is on track and you're achieving your health goals.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking:</strong> Schedule your physiotherapy sessions with a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>In-Home Therapy: </strong>Our experienced physiotherapists will visit your home at the scheduled time to provide the therapy you require.</li></ul><p><br></p><ul><li><strong>Personalized Care: </strong>Benefit from personalized physiotherapy sessions tailored to your specific needs and goals, whether it's recovering from an injury, managing a chronic condition, or improving your overall mobility.</li></ul><p><br></p><ul><li><strong>Progress Monitoring: </strong>Our therapists will continuously track your progress, adjusting your treatment plan as needed to ensure your recovery is on the right path.</li></ul><p><br></p><ul><li><strong>Expert Guidance:</strong> Our healthcare professionals are available to explain your treatment and provide you with guidance on managing your health.</li></ul><p><br></p><p>Fever99.com's \"Physiotherapy at Home\" service is all about making your healthcare journey as convenient as possible. We understand that your well-being should never be compromised by the inconvenience of traditional clinic visits. With our service, you can enjoy the benefits of professional physiotherapy in the comfort of your own space.</p><p><br></p><p>Join us in embracing the future of healthcare, where physiotherapy is delivered to your doorstep, providing you with the support you need to regain your strength and mobility on your terms.</p>",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697972896369-733177824.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "65281459c8b8463a04f6821b"
+      }
+    },
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "65281459c8b8463a04f6821c"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-12T15:44:25.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:08:16.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6534ea548fbfe494aca4f637"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Dietician Advice (Disease Specific)",
+  "slug": "dietician-advice-(disease-specific)",
+  "description": "At Fever99.com, we believe that comprehensive healthcare involves more than just treating illnesses; it's about promoting a healthy and balanced lifestyle. \r\n\r\nThat's why we are excited to introduce our \"Dietician Advice\" service, a crucial component of our complete healthcare solution, dedicated to providing you with expert dietary guidance right at your doorstep.",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697973426483-953076463.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6534ea548fbfe494aca4f638"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T09:24:36.963Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:34:25.071Z"
+  },
+  "__v": 0,
+  "about": "<h2><strong>Dietician Advice </strong>(Disease Specific)</h2><p><br></p><p>At Fever99.com, we believe that comprehensive healthcare involves more than just treating illnesses; it's about promoting a healthy and balanced lifestyle. That's why we are excited to introduce our \"Dietician Advice\" service, a crucial component of our complete healthcare solution, dedicated to providing you with expert dietary guidance right at your doorstep.</p><p><br></p><p><strong>Transform Your Health, One Bite at a Time:</strong></p><p><br></p><ul><li><strong>Personalized Nutrition: </strong>Our skilled dieticians create personalized nutrition plans that cater to your unique health goals and dietary needs. Whether you aim to lose weight, manage a medical condition, or optimize your well-being, we have you covered.</li></ul><p><br></p><ul><li><strong>Convenient Consultations: </strong>Say goodbye to the hassle of visiting clinics. Our Dietician Advice service offers virtual consultations that provide you with the convenience of dietary guidance in the comfort of your own space.</li></ul><p><br></p><ul><li><strong>Healthy Eating Made Easy:</strong> Our dieticians guide you in making informed food choices, helping you navigate the often-confusing world of nutrition with ease. We're here to ensure your dietary choices are aligned with your health goals.</li></ul><p><br></p><ul><li><strong>Sustainable Change:</strong> We understand that dietary changes can be challenging. Our approach is focused on creating sustainable and realistic dietary plans that you can integrate into your daily life.</li></ul><p><br></p><ul><li><strong>Support and Accountability: </strong>Your dietician is not just a consultant; they are your partner on your health journey. We provide ongoing support and accountability to help you stay on track and achieve your nutritional goals.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking: </strong>Schedule your dietician consultations with a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>Virtual Consultations: </strong>Connect with your dietician via video calls, making it convenient for you to discuss your dietary needs and goals.</li></ul><p><br></p><ul><li><strong>Personalized Nutrition Plans: </strong>Your dietician will develop a customized nutrition plan tailored to your unique requirements and preferences.</li></ul><p><br></p><ul><li><strong>Guidance and Support: </strong>Receive expert guidance on making healthier dietary choices, shopping for groceries, and meal planning. Your dietician is your source of knowledge and support.</li></ul><p><br></p><ul><li><strong>Progress Tracking: </strong>Your dietary journey is a dynamic process. Your dietician will monitor your progress and adjust your nutrition plan as needed.</li></ul><p><br></p><p>Fever99.com's \"Dietician Advice\" service is all about empowering you with the knowledge and guidance you need to make positive dietary choices. We understand that your health is deeply connected to your nutrition, and we're committed to making this aspect of healthcare as accessible and convenient as possible.</p><p><br></p><p>Join us in embracing a healthcare journey that focuses on promoting a balanced and healthy lifestyle. With our Dietician Advice service, you can make informed dietary choices that will lead to lasting well-being.</p>"
+},
+{
+  "_id": {
+    "$oid": "6535065f8fbfe494aca4f770"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Psychological Counseling",
+  "slug": "psychological-counseling",
+  "description": "At Fever99.com, we understand that comprehensive healthcare encompasses not only physical well-being but mental and emotional health as well. \r\n\r\nThat's why we are thrilled to introduce our \"Psychological Counseling\" service, a pivotal element of our complete healthcare solution, dedicated to providing you with expert emotional and mental support right at your doorstep.",
+  "about": "<h2><strong>Nurturing Your Mental Health: Psychological Counseling</strong></h2><p><br></p><p>At Fever99.com, we understand that comprehensive healthcare encompasses not only physical well-being but mental and emotional health as well. That's why we are thrilled to introduce our \"Psychological Counseling\" service, a pivotal element of our complete healthcare solution, dedicated to providing you with expert emotional and mental support right at your doorstep.</p><p><br></p><p><strong>Embrace Wellness, One Conversation at a Time:</strong></p><p><br></p><ul><li><strong>Professional Guidance: </strong>Our team of skilled and compassionate counselors offers professional support for a wide range of mental health challenges, including stress, anxiety, depression, relationship issues, and more.</li></ul><p><br></p><ul><li><strong>Virtual Sessions: </strong>Say goodbye to the barriers of in-person counseling. Our service provides virtual sessions that allow you to seek emotional support in the comfort of your own safe space.</li></ul><p><br></p><ul><li><strong>Personalized Approach:</strong> We understand that your emotional and mental well-being is as unique as you are. Our counselors create personalized strategies tailored to your specific needs, helping you find your path to wellness.</li></ul><p><br></p><ul><li><strong>Support Through Challenges: </strong>Life can be challenging, and our counselors are here to help you navigate difficult times, providing a listening ear and guidance to help you overcome obstacles and find emotional balance.</li></ul><p><br></p><ul><li><strong>Ongoing Care: </strong>We are not just your counselors; we are your partners in well-being. Our service includes ongoing support, helping you stay on your path to emotional wellness.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking:</strong> Schedule your counseling sessions with a few clicks on our user-friendly platform.</li></ul><p><br></p><ul><li><strong>Virtual Counseling: </strong>Connect with your counselor via secure and private video calls, making it easy for you to discuss your emotional needs and goals.</li></ul><p><br></p><ul><li><strong>Personalized Strategies: </strong>Your counselor will develop a tailored approach to help you address your emotional challenges and find solutions that work for you.</li></ul><p><br></p><ul><li><strong>Emotional Support:</strong> You have a safe space to express your feelings, thoughts, and concerns. Your counselor is here to listen and provide support.</li></ul><p><br></p><ul><li><strong>Ongoing Wellness:</strong> Emotional wellness is a journey. Your counselor will monitor your progress and provide guidance as you work toward a healthier emotional state.</li></ul><p><br></p><p>Fever99.com's \"Psychological Counseling\" service is all about recognizing the importance of mental and emotional health in your overall well-being. We understand that your mental health deserves the same level of care and attention as your physical health.</p><p><br></p><p>Join us in embracing a healthcare journey that focuses on nurturing your mental and emotional well-being. With our Psychological Counseling service, you can find the emotional support and guidance you need to lead a fulfilling and balanced life.</p>",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697973855154-116446416.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6534ea548fbfe494aca4f638"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:24:15.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T08:55:40.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6535076b8fbfe494aca4f77a"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "24x7 Ambulance on Call",
+  "slug": "24x7-ambulance-on-call",
+  "description": "In times of emergency, swift and reliable healthcare can make all the difference. \r\n\r\nFever99.com is proud to introduce our \"24x7 Ambulance on Call\" service, a critical component of our complete healthcare solution, dedicated to providing immediate medical assistance at any hour, wherever you are.",
+  "about": "<h2><strong>Rapid Response, Anytime, Anywhere: 24x7 Ambulance on Call</strong></h2><p><br></p><p>In times of emergency, swift and reliable healthcare can make all the difference. Fever99.com is proud to introduce our \"24x7 Ambulance on Call\" service, a critical component of our complete healthcare solution, dedicated to providing immediate medical assistance at any hour, wherever you are.</p><p><br></p><p><strong>Emergency Care, Day or Night:</strong></p><p><br></p><ul><li><strong>Round-the-Clock Availability:</strong> Health crises don't follow a schedule. Our ambulance service operates 24 hours a day, 7 days a week, ensuring you have access to vital medical assistance whenever you need it.</li></ul><p><br></p><ul><li><strong>Rapid Response: </strong>Our trained paramedics and well-equipped ambulances are primed to reach your location swiftly, ensuring you receive timely medical attention.</li></ul><p><br></p><ul><li><strong>Medical Expertise: </strong>Our ambulance teams are composed of skilled medical professionals who are trained to manage various emergency situations, providing you with the highest level of care.</li></ul><p><br></p><ul><li><strong>Wide Coverage: </strong>We are committed to reaching you, no matter where you are. Our ambulance service covers a broad geographic area, ensuring you are never far from our assistance.</li></ul><p><br></p><ul><li><strong>Safety and Comfort: </strong>Our ambulances are equipped with state-of-the-art medical equipment to provide advanced life support and ensure your safety and comfort during transit.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Easy Emergency Request: </strong>In the event of a medical emergency, contact us through our emergency hotline or app, providing your location and details of the situation.</li></ul><p><br></p><ul><li><strong>Immediate Dispatch: </strong>Our ambulance team is immediately dispatched to your location to provide rapid medical assistance.</li></ul><p><br></p><ul><li><strong>Expert Care:</strong> Skilled paramedics will assess your condition and provide the necessary care, stabilizing you for transport to a medical facility.</li></ul><p><br></p><ul><li><strong>Safe Transit: </strong>Our ambulances are equipped to provide medical interventions en route, ensuring your safety and comfort during the journey.</li></ul><p><br></p><ul><li><strong>Arrival at the Medical Facility: </strong>Our goal is to get you to the nearest medical facility swiftly, where you can receive further care and treatment.</li></ul><p><br></p><p>Fever99.com's \"24x7 Ambulance on Call\" service is all about prioritizing your health and well-being, no matter the circumstances. We recognize that emergencies can happen at any time, and we are here to provide the immediate medical assistance you need.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures your health is never compromised by distance or time. With our 24x7 Ambulance on Call service, you can rest assured that rapid medical assistance is just a call away, 24 hours a day, 7 days a week.</p>",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697974123813-124283546.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6534ea548fbfe494aca4f638"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:28:43.817Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:28:43.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653508b18fbfe494aca4f790"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "ICU Setup at Home",
+  "slug": "icu-setup-at-home",
+  "description": "When the need for critical care arises, your home can now be a center for comprehensive medical support. \r\n\r\nFever99.com is thrilled to introduce our \"ICU Setup at Home\" service, a cornerstone of our complete healthcare solution, dedicated to providing critical care in the comfort of your own space.",
+  "about": "<h2><strong>Critical Care Redefined: ICU Setup at Home</strong></h2><p><br></p><p>When the need for critical care arises, your home can now be a center for comprehensive medical support. Fever99.com is thrilled to introduce our \"ICU Setup at Home\" service, a cornerstone of our complete healthcare solution, dedicated to providing critical care in the comfort of your own space.</p><p><br></p><p><strong>Critical Care, Where You Need It:</strong></p><p><br></p><ul><li><strong>Advanced Medical Equipment: </strong>Our ICU setups are equipped with state-of-the-art medical equipment and technology, ensuring that you receive the highest level of care without having to leave your home.</li></ul><p><br></p><ul><li><strong>Skilled Medical Professionals: </strong>Our teams consist of experienced doctors, nurses, and paramedics who are trained to manage critical care scenarios, providing you with expert care and attention.</li></ul><p><br></p><ul><li><strong>Personalized Treatment:</strong> We understand that each patient's critical care needs are unique. Our approach is centered on creating personalized critical care plans tailored to your specific medical requirements.</li></ul><p><br></p><ul><li><strong>Safety and Comfort:</strong> Our ICU setups are designed to ensure your safety, comfort, and privacy. You can focus on recovery in an environment that's familiar and supportive.</li></ul><p><br></p><ul><li><strong>24/7 Availability: </strong>Health emergencies can occur at any time. Our ICU Setup at Home is available round the clock, 24/7, ensuring that you receive the care you need when you need it.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Emergency Request: </strong>In the event of a critical medical situation, contact us through our emergency hotline or app. Our team will respond promptly.</li></ul><p><br></p><ul><li><strong>Immediate Deployment:</strong> Our skilled medical team will be dispatched to your home, bringing with them the necessary ICU equipment and technology.</li></ul><p><br></p><ul><li><strong>Expert Care:</strong> Our medical professionals will evaluate your condition and initiate critical care interventions as needed, ensuring your stability and well-being.</li></ul><p><br></p><ul><li><strong>Continuous Monitoring: </strong>Your health will be continuously monitored in a safe and controlled environment. Any necessary medical interventions will be carried out as required.</li></ul><p><br></p><ul><li><strong>Comprehensive Support: </strong>Our goal is to provide you with the critical care you need until you can safely transition to a medical facility or your health stabilizes.</li></ul><p><br></p><p>Fever99.com's \"ICU Setup at Home\" service is all about redefining critical care to be patient-centric, compassionate, and accessible. We believe that your well-being should never be compromised by the need for critical care.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures your health is never far from the critical care it deserves. With our ICU Setup at Home service, you can focus on recovery in the comfort of your own space, knowing that expert critical care is just a call away.</p>",
+  "price": 1000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697974449051-699451887.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6534ea548fbfe494aca4f638"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:34:09.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:34:09.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65350a1c8fbfe494aca4f7a8"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Nurse Home Care",
+  "slug": "nurse-home-care",
+  "description": "At Fever99.com, we believe that healthcare should be as comforting as it is professional. \r\n\r\nThat's why we are excited to introduce our \"Nurse Home Care\" service, a central component of our complete healthcare solution, dedicated to providing skilled nursing care right in the comfort of your home.",
+  "about": "<h2><strong>Compassionate Care in the Comfort of Home: Nurse Home Care</strong></h2><p><br></p><p>At Fever99.com, we believe that healthcare should be as comforting as it is professional. That's why we are excited to introduce our \"Nurse Home Care\" service, a central component of our complete healthcare solution, dedicated to providing skilled nursing care right in the comfort of your home.</p><p><br></p><p><strong>Nursing Excellence, Delivered to Your Door:</strong></p><p><br></p><ul><li><strong>In-Home Nursing:</strong> Say goodbye to the hassle of hospital visits. Our Nurse Home Care service allows you to receive expert nursing care right in the familiar surroundings of your own home.</li></ul><p><br></p><ul><li><strong>Highly Skilled Nurses: </strong>Our team of dedicated and experienced nurses are here to provide skilled medical care, whether you're recovering from an illness, managing a chronic condition, or needing specialized healthcare support.</li></ul><p><br></p><ul><li><strong>Personalized Care Plans: </strong>We understand that every patient is unique. Our nurses develop customized care plans tailored to your specific health requirements, ensuring you receive the care you deserve.</li></ul><p><br></p><ul><li><strong>Flexible Scheduling: </strong>We are available when you need us. Our user-friendly platform allows you to book appointments at your convenience, ensuring your healthcare journey fits seamlessly into your life.</li></ul><p><br></p><ul><li><strong>Support and Compassion: </strong>Our nurses not only bring professional expertise but also a compassionate and caring approach to your well-being, making your healing process as comfortable as possible.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking: </strong>Schedule your nursing care sessions with a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>In-Home Care: </strong>Our skilled nurses will visit your home at the scheduled time to provide the nursing care you require.</li></ul><p><br></p><ul><li><strong>Professional Nursing Care: </strong>Whether it's medication administration, wound care, post-operative support, or chronic disease management, our nurses provide the professional care you need.</li></ul><p><br></p><ul><li><strong>Personalized Attention:</strong> Our nurses will monitor your health and adjust your care plan as needed, ensuring you receive the highest level of care.</li></ul><p><br></p><ul><li><strong>Comprehensive Support:</strong> We are with you throughout your health journey, ensuring your well-being and providing the support and guidance you need.</li></ul><p><br></p><p>Fever99.com's \"Nurse Home Care\" service is all about delivering skilled nursing care that is both professional and compassionate. We believe that your health and well-being should be supported in an environment that is comfortable and caring.</p><p><br></p><p>Join us in embracing a healthcare journey that focuses on providing you with the skilled nursing care you deserve right in the comfort of your own space. With our Nurse Home Care service, you can focus on recovery, knowing that expert nursing care is just a call away.</p>",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697974812343-572191387.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6534ea548fbfe494aca4f638"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:40:12.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:40:12.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65350bdd8fbfe494aca4f7cf"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Medicine Delivery at Home",
+  "slug": "medicine-delivery-at-home",
+  "description": "Getting the medicines you need should be simple and stress-free. \r\n\r\nFever99.com is proud to introduce our \"Medicine Delivery at Home\" service, a pivotal component of our complete healthcare solution, dedicated to providing you with hassle-free and timely access to your medications right at your doorstep.",
+  "about": "<h2><strong>Your Prescription, Your Convenience: Medicine Delivery at Home</strong></h2><p><br></p><p>Getting the medicines you need should be simple and stress-free. Fever99.com is proud to introduce our \"Medicine Delivery at Home\" service, a pivotal component of our complete healthcare solution, dedicated to providing you with hassle-free and timely access to your medications right at your doorstep.</p><p><br></p><p><strong>Medicines, Delivered with Care:</strong></p><p><br></p><ul><li><strong>Fast and Reliable Delivery: </strong>We understand the urgency of getting your medications. Our medicine delivery service is designed for prompt and dependable service, ensuring you have your prescriptions on time.</li></ul><p><br></p><ul><li><strong>Wide Medication Range: </strong>Whether it's your regular prescriptions, over-the-counter medicines, or specialty drugs, we offer a comprehensive range of medications to meet your healthcare needs.</li></ul><p><br></p><ul><li><strong>Convenient Ordering: </strong>Ordering your medicines has never been easier. Our user-friendly platform allows you to place your orders from the comfort of your home, eliminating the need to visit a pharmacy.</li></ul><p><br></p><ul><li><strong>Prescription Management: </strong>We provide a secure system for storing and managing your prescriptions, ensuring that you have easy access to your medication history and dosages.</li></ul><p><br></p><ul><li><strong>Customer Support: </strong>Our team is here to assist you with any questions or concerns you may have about your medications. We are committed to ensuring your medication needs are met with the utmost care and attention.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Ordering: </strong>Order your medications through our platform with just a few clicks.</li></ul><p><br></p><ul><li><strong>Fast Delivery: </strong>Our efficient delivery team will ensure your medicines reach your doorstep swiftly.</li></ul><p><br></p><ul><li><strong>Secure Packaging: </strong>Your medicines will be securely packaged to maintain their integrity during transport.</li></ul><p><br></p><ul><li><strong>Prescription Management: </strong>Our platform allows you to manage and reorder your prescriptions, keeping your healthcare organized and stress-free.</li></ul><p><br></p><ul><li><strong>Support and Assistance: </strong>Our customer support team is available to assist you with any queries or concerns, ensuring your medication experience is seamless.</li></ul><p><br></p><p>Fever99.com's \"Medicine Delivery at Home\" service is all about providing you with the convenience and peace of mind that come with timely access to your medications. We understand the importance of adherence to your prescriptions and are dedicated to making it as simple as possible.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures your medication needs are met with care and convenience. With our Medicine Delivery at Home service, you can focus on your health, knowing that your medications will be delivered right to your doorstep.</p><p><br></p>",
+  "price": 500,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697975261824-738011205.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "65350bdd8fbfe494aca4f7d0"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:47:41.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T08:55:30.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65350d848fbfe494aca4f7dd"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Elective Surgery",
+  "slug": "elective-surgery",
+  "description": "When you've decided on elective surgery, your journey to well-planned wellness begins here. \r\n\r\nFever99.com is delighted to introduce our \"Elective Surgery\" service, an integral part of our complete healthcare solution, dedicated to offering you comprehensive support, personalized care, and a safe environment for your elective surgical procedures.",
+  "about": "<h2><strong>Your Path to Well-Planned Wellness: Elective Surgery</strong></h2><p><br></p><p>When you've decided on elective surgery, your journey to well-planned wellness begins here. Fever99.com is delighted to introduce our \"Elective Surgery\" service, an integral part of our complete healthcare solution, dedicated to offering you comprehensive support, personalized care, and a safe environment for your elective surgical procedures.</p><p><br></p><p><strong>Elective Surgery, Your Way:</strong></p><p><br></p><ul><li><strong>Personalized Planning: </strong>Our team of experienced surgeons and healthcare professionals work with you to create a personalized surgical plan tailored to your unique health goals.</li></ul><p><br></p><ul><li><strong>Comprehensive Pre-Op Care:</strong> From pre-operative assessments to preparatory consultations, we ensure you have all the information and support you need leading up to your surgery.</li></ul><p><br></p><ul><li><strong>State-of-the-Art Facilities: </strong>Our surgical facilities are equipped with advanced technology and staffed with skilled healthcare experts to ensure your safety and comfort during the procedure.</li></ul><p><br></p><ul><li><strong>Post-Operative Care: </strong>Following your surgery, our team provides thorough post-operative care to monitor your recovery and ensure you're on the path to wellness.</li></ul><p><br></p><ul><li><strong>Holistic Support: </strong>Our service extends beyond the surgery, offering emotional and psychological support to ensure your entire well-being is considered in your healthcare journey.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Consultation and Planning:</strong> Begin your journey with a consultation where your healthcare team will discuss your elective surgery options and create a tailored plan.</li></ul><p><br></p><ul><li><strong>Pre-Operative Preparation: </strong>Receive all the necessary information, health checks, and support to ensure you're fully prepared for your surgery.</li></ul><p><br></p><ul><li><strong>Surgery Day: </strong>Undergo your elective procedure in our state-of-the-art facilities with skilled surgical teams.</li></ul><p><br></p><ul><li><strong>Post-Operative Care:</strong> Our post-operative care team will ensure you're monitored, comfortable, and on track for a successful recovery.</li></ul><p><br></p><ul><li><strong>Comprehensive Wellness:</strong> Beyond the surgery, we offer support for your emotional and psychological well-being, ensuring your holistic wellness is a priority.</li></ul><p><br></p><p>Fever99.com's \"Elective Surgery\" service is all about offering you the opportunity for well-planned and safe elective surgical procedures. Your health and wellness are at the heart of this service, and we're here to support you every step of the way.</p><p><br></p><p>Join us in embracing a healthcare journey that puts your elective surgery on a path to comprehensive well-being. With our Elective Surgery service, you can focus on your health and wellness, knowing that you have a dedicated team by your side.</p>",
+  "price": 5000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697975684024-82960277.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "65350d848fbfe494aca4f7de"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:54:44.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:54:44.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65350e858fbfe494aca4f7ec"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Vaccination at Home",
+  "slug": "vaccination-at-home",
+  "description": "Ensuring your health and well-being should be as convenient as possible. \r\n\r\nFever99.com is pleased to introduce our \"Vaccination at Home\" service, a crucial element of our complete healthcare solution, dedicated to providing you with easy access to essential vaccinations right at your doorstep.\r\n\r\n",
+  "about": "<h2><strong>Protecting Health, One Shot at a Time: Vaccination at Home</strong></h2><p><br></p><p>Ensuring your health and well-being should be as convenient as possible. Fever99.com is pleased to introduce our \"Vaccination at Home\" service, a crucial element of our complete healthcare solution, dedicated to providing you with easy access to essential vaccinations right at your doorstep.</p><p><br></p><p><strong>Vaccination, Simplified:</strong></p><p><br></p><ul><li><strong>Personalized Immunization: </strong>Our team of healthcare professionals provides personalized guidance on essential vaccinations tailored to your specific health needs and age group.</li></ul><p><br></p><ul><li><strong>Hassle-Free Scheduling: </strong>Say goodbye to long queues and waiting rooms. Our user-friendly platform allows you to schedule vaccination appointments that suit your convenience.</li></ul><p><br></p><ul><li><strong>Vaccination Variety: </strong>Whether it's routine vaccinations, flu shots, travel vaccines, or specific immunizations, we offer a wide range of vaccines to keep you protected.</li></ul><p><br></p><ul><li><strong>Skilled Vaccinators: </strong>Our experienced healthcare providers are skilled in administering vaccines, ensuring a safe and comfortable experience for you and your family.</li></ul><p><br></p><ul><li><strong>Health and Wellness Focus: </strong>Beyond the shot, we're committed to supporting your overall health and wellness through preventive measures and guidance.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Effortless Booking: </strong>Schedule your vaccination appointments with a few clicks on our platform.</li></ul><p><br></p><ul><li><strong>Vaccination Visit: </strong>Our trained healthcare providers will visit your home at the scheduled time to administer the necessary vaccines.</li></ul><p><br></p><ul><li><strong>Personalized Advice: </strong>Receive guidance on recommended vaccinations based on your health profile, travel plans, or specific health concerns.</li></ul><p><br></p><ul><li><strong>Safe Immunization:</strong> Our providers administer the vaccines with care, ensuring your safety and comfort during the process.</li></ul><p><br></p><ul><li><strong>Continued Wellness: </strong>Beyond the vaccination, we offer support in terms of preventive healthcare measures and overall wellness to keep you in the best of health.</li></ul><p><br></p><p>Fever99.com's \"Vaccination at Home\" service is all about making sure your health is protected in the most convenient way possible. We understand the importance of immunization in maintaining your well-being, and we're committed to making it as easy as possible for you.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures your vaccinations are hassle-free and personalized. With our Vaccination at Home service, you can focus on your health, knowing that essential vaccinations are delivered right to your doorstep.</p>",
+  "price": 1000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697975941197-121067252.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "65350e858fbfe494aca4f7ed"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T11:59:01.200Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T11:59:01.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6535101c8fbfe494aca4f7fc"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "High-Risk Pregnancy Care",
+  "slug": "high-risk-pregnancy-care",
+  "description": "When you're on a unique pregnancy journey, you deserve the highest level of care and support. \r\n\r\nFever99.com is proud to introduce our \"High-Risk Pregnancy Care\" service, an essential element of our complete healthcare solution, dedicated to providing you with specialized care, expert guidance, and a safe environment for your high-risk pregnancy.",
+  "about": "<h2><strong>Comprehensive Care for You and Your Precious Journey: High-Risk Pregnancy Care</strong></h2><p><br></p><p>When you're on a unique pregnancy journey, you deserve the highest level of care and support. Fever99.com is proud to introduce our \"High-Risk Pregnancy Care\" service, an essential element of our complete healthcare solution, dedicated to providing you with specialized care, expert guidance, and a safe environment for your high-risk pregnancy.</p><p><br></p><p><strong>High-Risk Pregnancy, Your Precious Journey:</strong></p><p><br></p><ul><li><strong>Specialized Expertise:</strong> Our team of experienced obstetricians and healthcare professionals specializes in managing high-risk pregnancies, ensuring you receive the expert care you and your baby need.</li></ul><p><br></p><ul><li><strong>Personalized Care Plans: </strong>We understand that each high-risk pregnancy is unique. Our approach is centered on creating personalized care plans tailored to your specific health needs and challenges.</li></ul><p><br></p><ul><li><strong>Advanced Monitoring: </strong>Our state-of-the-art facilities are equipped with advanced technology to continuously monitor your health and your baby's development, providing you with the highest level of care.</li></ul><p><br></p><ul><li><strong>Emotional Support: </strong>High-risk pregnancies can be emotionally challenging. Our service includes counseling and emotional support to help you navigate the psychological aspects of your journey.</li></ul><p><br></p><ul><li><strong>Post-Delivery Care: </strong>Our care extends beyond delivery. We provide postnatal support to ensure the health and wellness of both you and your baby.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Consultation and Planning: </strong>Begin your high-risk pregnancy journey with a consultation where your healthcare team will discuss your specific health challenges and create a tailored care plan.</li></ul><p><br></p><ul><li><strong>Continuous Monitoring: </strong>Your health and your baby's development will be continuously monitored, ensuring timely interventions if needed.</li></ul><p><br></p><ul><li><strong>Advanced Medical Care: </strong>If necessary, we provide advanced medical care and interventions to ensure the safety and well-being of you and your baby.</li></ul><p><br></p><ul><li><strong>Emotional and Psychological Support:</strong> High-risk pregnancies can be emotionally taxing. Our service includes counseling and support to help you navigate the psychological aspects of your journey.</li></ul><p><br></p><ul><li><strong>Post-Delivery Wellness: </strong>Our care extends to the postnatal phase, ensuring both you and your baby are on the path to continued well-being.</li></ul><p><br></p><p>Fever99.com's \"High-Risk Pregnancy Care\" service is all about ensuring the safety and well-being of you and your precious journey. We understand the unique challenges high-risk pregnancies pose and are dedicated to providing you with the highest level of care and support.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures your high-risk pregnancy is managed with specialized care and compassion. With our High-Risk Pregnancy Care service, you can focus on the joy of your journey, knowing that you and your baby are in expert hands.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697976348220-458724558.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "6535101c8fbfe494aca4f7fd"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:05:48.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:05:48.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653511318fbfe494aca4f80d"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Mother & Child Care",
+  "slug": "mother-and-child-care",
+  "description": "The well-being of mothers and their precious children is a priority like no other. \r\n\r\nFever99.com is delighted to introduce our \"Mother & Child Care\" service, a cornerstone of our complete healthcare solution, dedicated to providing comprehensive support, specialized care, and a nurturing environment for both mothers and their children.",
+  "about": "<h2><strong>Nurturing Health, From One Generation to the Next: Mother &amp; Child Care</strong></h2><p><br></p><p>The well-being of mothers and their precious children is a priority like no other. Fever99.com is delighted to introduce our \"Mother &amp; Child Care\" service, a cornerstone of our complete healthcare solution, dedicated to providing comprehensive support, specialized care, and a nurturing environment for both mothers and their children.</p><p><br></p><p><strong>Mother &amp; Child Care, Your Health Journey:</strong></p><p><br></p><ul><li><strong>Specialized Care for Moms: </strong>Our team of experienced obstetricians and gynecologists provides specialized care for expectant mothers, ensuring a healthy pregnancy journey and safe delivery.</li></ul><p><br></p><ul><li><strong>Pediatric Excellence: </strong>Our pediatricians are dedicated to offering expert care to newborns and children, ensuring their health and development are optimized from the very beginning.</li></ul><p><br></p><ul><li><strong>Personalized Wellness Plans: </strong>We understand that the health needs of mothers and children are unique. Our approach is centered on creating personalized wellness plans tailored to individual requirements.</li></ul><p><br></p><ul><li><strong>Advanced Monitoring: </strong>Our facilities are equipped with advanced technology to continuously monitor the health of both mothers and children, providing the highest level of care.</li></ul><p><br></p><ul><li><strong>Emotional Support: </strong>We acknowledge the emotional and psychological aspects of motherhood. Our service includes counseling and support to help mothers and children navigate these vital components of their well-being.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Consultation and Planning:</strong> Begin your mother and child care journey with a consultation where your healthcare team will discuss your specific health needs and create a tailored care plan.</li></ul><p><br></p><ul><li><strong>Continuous Monitoring: </strong>The health of both mothers and children will be continuously monitored, ensuring timely interventions if needed.</li></ul><p><br></p><ul><li><strong>Specialized Medical Care: </strong>Our healthcare providers offer specialized medical care to ensure the safety and well-being of both mothers and children.</li></ul><p><br></p><ul><li><strong>Emotional and Psychological Support: </strong>We offer counseling and support to help mothers and children navigate the emotional aspects of their health journey.</li></ul><p><br></p><ul><li><strong>Developmental Milestones: </strong>Our pediatric care includes tracking and supporting the developmental milestones of children, ensuring their growth and well-being.</li></ul><p><br></p><p>Fever99.com's \"Mother &amp; Child Care\" service is all about ensuring the health and well-being of both mothers and their children at every step of their journey. We understand that motherhood is a profound and unique experience, and we are committed to providing you with the highest level of care and support.</p><p><br></p><p>Join us in embracing a healthcare journey that ensures the health and well-being of both mothers and their children are nurtured and prioritized. With our Mother &amp; Child Care service, you can focus on the joy of motherhood, knowing that you and your child are in expert hands.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697976625843-303243893.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "653511318fbfe494aca4f80e"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:10:25.846Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:10:25.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653512aa8fbfe494aca4f81f"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Post Op Surgery Care",
+  "slug": "post-op-surgery-care",
+  "description": "Your journey to recovery after surgery is of paramount importance, and we're here to make it as smooth and comfortable as possible. \r\n\r\nFever99.com is pleased to introduce our \"Post-Op Surgery Care\" service, an essential component of our complete healthcare solution, dedicated to providing you with expert care, comprehensive support, and a nurturing environment for your post-operative healing.\r\n",
+  "about": "<h2><strong>Your Recovery, Our Priority: Post-Op Surgery Care</strong></h2><p><br></p><p>Your journey to recovery after surgery is of paramount importance, and we're here to make it as smooth and comfortable as possible. Fever99.com is pleased to introduce our \"Post-Op Surgery Care\" service, an essential component of our complete healthcare solution, dedicated to providing you with expert care, comprehensive support, and a nurturing environment for your post-operative healing.</p><p><br></p><p><strong>Post-Op Care, Your Path to Wellness:</strong></p><p><br></p><ul><li><strong>Skilled Nursing Care: </strong>Our team of experienced nurses and healthcare professionals specializes in post-operative care, ensuring you receive the expert support you need during the recovery process.</li></ul><p><br></p><ul><li><strong>Personalized Care Plans: </strong>We understand that every surgery and patient is unique. Our approach is centered on creating personalized care plans tailored to your specific post-operative health requirements.</li></ul><p><br></p><ul><li><strong>Advanced Monitoring: </strong>Our facilities are equipped with state-of-the-art technology to continuously monitor your post-operative health, providing the highest level of care.</li></ul><p><br></p><ul><li><strong>Pain Management: </strong>We are dedicated to ensuring your comfort and well-being. Our service includes expert pain management to alleviate any discomfort during your recovery.</li></ul><p><br></p><ul><li><strong>Emotional Support: </strong>We recognize the emotional aspects of post-operative recovery. Our service includes counseling and emotional support to help you navigate this vital component of your healing process.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Consultation and Planning: </strong>Begin your post-operative care journey with a consultation where your healthcare team will discuss your specific surgical procedure and create a tailored post-operative care plan.</li></ul><p><br></p><ul><li><strong>Continuous Monitoring: </strong>Your post-operative health will be continuously monitored, ensuring timely interventions if needed.</li></ul><p><br></p><ul><li><strong>Expert Nursing Care: </strong>Our nurses provide specialized post-operative care, ensuring your safety and comfort during the recovery process.</li></ul><p><br></p><ul><li><strong>Pain Management: </strong>We offer pain management solutions to ensure you're as comfortable as possible during your recovery.</li></ul><p><br></p><ul><li><strong>Emotional and Psychological Support: </strong>We provide counseling and support to help you navigate the emotional aspects of your post-operative healing.</li></ul><p><br></p><p>Fever99.com's \"Post-Op Surgery Care\" service is all about ensuring your recovery is as comfortable, safe, and efficient as possible. We understand that post-operative healing can be a sensitive and unique journey, and we are committed to providing you with the highest level of care and support.</p><p><br></p><p>Join us in embracing a healthcare journey that prioritizes your post-operative recovery, ensuring that you're on the path to wellness. With our Post-Op Surgery Care service, you can focus on your healing process, knowing that you have a dedicated team by your side.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697977002677-678660105.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "653512aa8fbfe494aca4f820"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:16:42.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:16:42.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653513c38fbfe494aca4f832"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Health Insurance",
+  "slug": "health-insurance",
+  "description": "Your health is your most valuable asset, and protecting it should be a top priority. \r\n\r\nFever99.com is pleased to introduce our \"Health Insurance Solutions\" service, an integral part of our complete healthcare solution, dedicated to providing you with comprehensive health coverage, financial security, and peace of mind.",
+  "about": "<h2><strong>Protecting Your Well-Being: Health Insurance Solutions</strong></h2><p><br></p><p>Your health is your most valuable asset, and protecting it should be a top priority. Fever99.com is pleased to introduce our \"Health Insurance Solutions\" service, an integral part of our complete healthcare solution, dedicated to providing you with comprehensive health coverage, financial security, and peace of mind.</p><p><br></p><p><strong>Health Insurance, Your Safety Net:</strong></p><p><br></p><ul><li><strong>Personalized Coverage:</strong> Our team of insurance experts works with you to create a personalized insurance plan tailored to your unique health needs and financial situation.</li></ul><p><br></p><ul><li><strong>Wide Network of Providers:</strong> We partner with a vast network of healthcare providers and facilities, ensuring you have access to quality medical care whenever you need it.</li></ul><p><br></p><ul><li><strong>Comprehensive Coverage: </strong>Our health insurance plans cover a range of healthcare needs, including hospitalization, outpatient services, medications, preventive care, and more.</li></ul><p><br></p><ul><li><strong>Affordable Premiums: </strong>We understand the importance of cost-effective healthcare. Our insurance plans offer competitive premiums that align with your budget.</li></ul><p><br></p><ul><li><strong>Expert Guidance:</strong> Our insurance advisors are available to assist you in selecting the right insurance plan and ensuring you understand the coverage and benefits.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Consultation and Planning: </strong>Begin your health insurance journey with a consultation where our insurance experts will assess your health and financial needs to create a personalized insurance plan.</li></ul><p><br></p><ul><li><strong>Policy Selection: </strong>Based on your unique requirements, we'll help you choose the right insurance policy from our selection of comprehensive plans.</li></ul><p><br></p><ul><li><strong>Affordable Premiums: </strong>We'll work with you to determine a premium that suits your budget while providing you with the coverage you need.</li></ul><p><br></p><ul><li><strong>Coverage Activation: </strong>Once your policy is in place, you'll have access to our wide network of healthcare providers and facilities for your medical needs.</li></ul><p><br></p><ul><li><strong>Support and Assistance: </strong>Our insurance advisors are available to assist you with any queries or concerns related to your health insurance.</li></ul><p><br></p><p>Fever99.com's \"Health Insurance Solutions\" service is all about ensuring your well-being is protected and that you have financial security in times of health-related emergencies. We believe that everyone should have access to quality healthcare without worrying about the financial burden.</p><p><br></p><p>Join us in embracing a healthcare journey that includes the vital component of financial protection. With our Health Insurance Solutions service, you can focus on your health, knowing that you have a safety net in place for any unexpected medical expenses.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697977283749-402553264.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "653513c38fbfe494aca4f833"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:21:23.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:21:23.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653514848fbfe494aca4f846"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Medical Equipments on Rent",
+  "slug": "medical-equipments-on-rent",
+  "description": "When you or your loved ones need medical equipment for a healthier, more comfortable life, convenience is key. \r\nFever99.com is delighted to introduce our \"Medical Equipment on Rent\" service, a central part of our complete healthcare solution, dedicated to providing you with hassle-free access to essential medical equipment on a rental basis.",
+  "about": "<h2><strong>Convenience and Comfort: Medical Equipment on Rent</strong></h2><p><br></p><p>When you or your loved ones need medical equipment for a healthier, more comfortable life, convenience is key. Fever99.com is delighted to introduce our \"Medical Equipment on Rent\" service, a central part of our complete healthcare solution, dedicated to providing you with hassle-free access to essential medical equipment on a rental basis.</p><p><br></p><p><strong>Medical Equipment, On Your Terms:</strong></p><p><br></p><ul><li><strong>Wide Range of Equipment: </strong>We offer a comprehensive selection of medical equipment, from mobility aids like wheelchairs and crutches to home care devices like hospital beds and oxygen concentrators.</li></ul><p><br></p><ul><li><strong>Affordable Rentals:</strong> Our rental plans are designed to be cost-effective, ensuring that you can access the equipment you need without breaking the bank.</li></ul><p><br></p><ul><li><strong>Convenient Delivery:</strong> We understand the importance of timely access to medical equipment. We provide convenient delivery and pick-up services, right to your doorstep.</li></ul><p><br></p><ul><li><strong>Quality and Safety:</strong> Our equipment is well-maintained, regularly inspected, and thoroughly sanitized to ensure that you receive safe and reliable devices.</li></ul><p><br></p><ul><li><strong>Expert Support: </strong>Our team is available to assist you with equipment selection, setup, and any questions or concerns you may have during the rental period.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Browse and Choose: </strong>Explore our range of medical equipment and select the devices you need for your health and well-being.</li></ul><p><br></p><ul><li><strong>Rental Plan Selection:</strong> Choose a rental plan that suits your needs, whether it's for a short-term recovery or an extended period.</li></ul><p><br></p><ul><li><strong>Order Placement: </strong>Place your order through our user-friendly platform, providing the necessary details for delivery and setup.</li></ul><p><br></p><ul><li><strong>Delivery and Setup: </strong>Our team will deliver and set up the equipment at your specified location, ensuring everything is in working order.</li></ul><p><br></p><ul><li><strong>Use and Return: </strong>Enjoy the comfort and convenience of the equipment for your health needs. When you're done, we'll pick up the equipment according to your schedule.</li></ul><p><br></p><p>Fever99.com's \"Medical Equipment on Rent\" service is all about making essential medical equipment accessible and affordable, ensuring that your health and well-being are supported with convenience.</p><p><br></p><p>Join us in embracing a healthcare journey that prioritizes your comfort and accessibility. With our Medical Equipment on Rent service, you can focus on your health, knowing that the necessary equipment is just a rental away.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697977476559-680861759.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "653514848fbfe494aca4f847"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:24:36.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:24:36.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653517848fbfe494aca4f85b"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "name": "Healthcare Product at Home",
+  "slug": "healthcare-product-at-home",
+  "description": "Your journey to better health often begins with the right tools and products. \r\n\r\nFever99.com is excited to introduce our \"Healthcare Products at Home\" service, an integral part of our complete healthcare solution, dedicated to providing you with convenient access to a wide range of quality health and wellness products, all delivered to your doorstep.",
+  "about": "<h2><strong>Quality Health Products at Your Doorstep: Healthcare Products at Home</strong></h2><p><br></p><p>Your journey to better health often begins with the right tools and products. Fever99.com is excited to introduce our \"Healthcare Products at Home\" service, an integral part of our complete healthcare solution, dedicated to providing you with convenient access to a wide range of quality health and wellness products, all delivered to your doorstep.</p><p><br></p><p><strong>Health Products, Your Healthier Life:</strong></p><p><br></p><ul><li><strong>Wide Product Range: </strong>We offer a comprehensive selection of health and wellness products, from vitamins and supplements to mobility aids, home diagnostic kits, and personal care items.</li></ul><p><br></p><ul><li><strong>Quality Assurance: </strong>All products we offer meet the highest quality standards to ensure your health and wellness are supported effectively.</li></ul><p><br></p><ul><li><strong>Convenient Ordering:</strong> Our user-friendly platform makes it easy to browse and order the products you need from the comfort of your own home.</li></ul><p><br></p><ul><li><strong>Safe and Secure Delivery:</strong> We understand the importance of safe and timely delivery. Our service ensures that your products are delivered securely to your doorstep.</li></ul><p><br></p><ul><li><strong>Expert Advice: </strong>Our team is available to provide advice and guidance on product selection, usage, and any questions you may have about the products we offer.</li></ul><p><br></p><p><strong>How It Works:</strong></p><p><br></p><ul><li><strong>Browse and Select: </strong>Explore our range of health and wellness products and select the items that suit your needs for a healthier life.</li></ul><p><br></p><ul><li><strong>Online Ordering: </strong>Place your order through our platform, specifying the quantity and any additional details as needed.</li></ul><p><br></p><ul><li><strong>Secure Payment: </strong>Complete your order with a secure payment process, ensuring your information is protected.</li></ul><p><br></p><ul><li><strong>Safe Delivery: </strong>We'll ensure that your products are delivered safely and promptly to your specified location.</li></ul><p><br></p><ul><li><strong>Product Support: </strong>Our team is available to answer your questions, provide advice, and offer support regarding product selection and usage.</li></ul><p><br></p><p>Fever99.com's \"Healthcare Products at Home\" service is all about making quality health and wellness products accessible, convenient, and affordable, ensuring that your journey to better health is as seamless as possible.</p><p><br></p><p>Join us in embracing a healthcare journey that prioritizes your well-being with the right products delivered right to your doorstep. With our Healthcare Products at Home service, you can focus on living a healthier life, knowing that quality products are just a click away.</p>",
+  "price": 2000,
+  "pinCode": [
+    "Faridabad"
+  ],
+  "image": "files/image-1697978244718-283853711.jpeg",
+  "keyFeture": [
+    {
+      "key": "",
+      "featers": "",
+      "_id": {
+        "$oid": "653517848fbfe494aca4f85c"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-22T12:37:24.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T12:37:24.721Z"
+  },
+  "__v": 0
+}]

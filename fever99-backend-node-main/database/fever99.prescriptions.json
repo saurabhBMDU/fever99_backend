@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "65aa76d9f50daf9fa06b014a"
+  },
+  "appointmentId": {
+    "$oid": "65aa766df50daf9fa06b00bc"
+  },
+  "doctorId": {
+    "$oid": "6530265b402819106bfae178"
+  },
+  "patientId": {
+    "$oid": "64e10687d2002a1a30bc1306"
+  },
+  "symptoms": "Optio sed amet acc",
+  "diagnosis": "Deserunt praesentium",
+  "medicine": [
+    {
+      "name": "",
+      "time": "",
+      "frequency": "Once a day",
+      "duration": "Day(s)",
+      "note": "1",
+      "roa": "Orally",
+      "dose_form": "Ml",
+      "duration_count": "12"
+    }
+  ],
+  "investigation": "Incididunt in ut ips",
+  "pastHistory": "Culpa et consequunt",
+  "surgicalHistory": "Quo non qui id aute",
+  "personalHistory": "Ullam aut libero dol",
+  "drugAllergy": "Vel pariatur Eligen",
+  "notes": "Consectetur voluptat",
+  "createdAt": {
+    "$date": "2024-01-19T13:19:21.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T13:19:21.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abb94d9d8a9e6ebc5d2945"
+  },
+  "appointmentId": {
+    "$oid": "65aa7957f50daf9fa06b056d"
+  },
+  "doctorId": {
+    "$oid": "6530265b402819106bfae178"
+  },
+  "patientId": {
+    "$oid": "64e10687d2002a1a30bc1306"
+  },
+  "symptoms": "Sbsb",
+  "diagnosis": "Dbdbsb",
+  "medicine": [
+    {
+      "name": "Tablet Furantez SR ",
+      "time": "Not Applicable",
+      "frequency": "Once a day",
+      "duration": "Day(s)",
+      "note": "Test",
+      "roa": "Orally",
+      "dose_form": "Ml",
+      "duration_count": "1"
+    }
+  ],
+  "investigation": "Sbsvve",
+  "pastHistory": "Dhdhdv",
+  "surgicalHistory": "Dbdbdb",
+  "personalHistory": "Dbdb",
+  "drugAllergy": "Dgdvdv",
+  "notes": "Hddve",
+  "createdAt": {
+    "$date": "2024-01-20T12:15:09.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T12:15:09.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65acd9513e13a1fed1a5687d"
+  },
+  "appointmentId": {
+    "$oid": "65acd03079f08523a7a232e3"
+  },
+  "doctorId": {
+    "$oid": "65a779043ac43ae1e6597b55"
+  },
+  "patientId": {
+    "$oid": "657f17107d6dd57f7f10ea0d"
+  },
+  "symptoms": "Diabetes uncontrol",
+  "diagnosis": "DM type 2",
+  "medicine": [
+    {
+      "name": "Tablet Q Met XL 500mg ",
+      "time": "Before Food",
+      "frequency": "",
+      "duration": "Day(s)",
+      "note": "1",
+      "roa": "Orally",
+      "dose_form": "Tablet(s)",
+      "duration_count": "10"
+    }
+  ],
+  "investigation": "CBC",
+  "pastHistory": "K/c/o DM",
+  "surgicalHistory": "",
+  "personalHistory": "",
+  "drugAllergy": "Nil",
+  "notes": "",
+  "createdAt": {
+    "$date": "2024-01-21T08:44:01.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T08:44:01.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65acdb173e13a1fed1a56943"
+  },
+  "appointmentId": {
+    "$oid": "65accef8e91c362f30230a06"
+  },
+  "doctorId": {
+    "$oid": "6530265b402819106bfae178"
+  },
+  "patientId": {
+    "$oid": "64e10687d2002a1a30bc1306"
+  },
+  "symptoms": "test",
+  "diagnosis": "test",
+  "medicine": [
+    {
+      "name": "Tablet Brevipil 50  (Brivaracetam  50mg    )",
+      "time": "",
+      "frequency": "Twice a day",
+      "duration": "Week(s)",
+      "note": "1",
+      "roa": "Oral Drops",
+      "dose_form": "Mg",
+      "duration_count": "1"
+    }
+  ],
+  "investigation": "test",
+  "pastHistory": "test",
+  "surgicalHistory": "test",
+  "personalHistory": "test",
+  "drugAllergy": "test",
+  "notes": "test",
+  "createdAt": {
+    "$date": "2024-01-21T08:51:35.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T08:51:35.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae25fea5bd12aa39b28f96"
+  },
+  "appointmentId": {
+    "$oid": "65ad3de2a5bd12aa39b2854a"
+  },
+  "doctorId": {
+    "$oid": "65a779043ac43ae1e6597b55"
+  },
+  "patientId": {
+    "$oid": "6525a3b02987f1103dc60bc6"
+  },
+  "medicine": [
+    {
+      "name": "Tablet Aciloc 150  (Ranitidine  150mg    )",
+      "time": "",
+      "frequency": "Once a day",
+      "duration": "Day(s)",
+      "note": "1",
+      "roa": "Orally",
+      "dose_form": "Tablet(s)",
+      "duration_count": "4"
+    }
+  ],
+  "pastHistory": "No",
+  "drugAllergy": "No",
+  "createdAt": {
+    "$date": "2024-01-22T08:23:26.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T08:23:26.350Z"
+  },
+  "__v": 0
+}]

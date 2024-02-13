@@ -1,0 +1,513 @@
+[{
+  "_id": {
+    "$oid": "65259ce816879f394648d736"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "mobile": "9090909090",
+  "gender": "Femake",
+  "state": "Karnatka",
+  "city": "Mysore",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-10-10T18:50:16.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T18:50:16.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65259d4416879f394648d73c"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "mobile": "9090909090",
+  "gender": "Femake",
+  "state": "Karnatka",
+  "city": "Mysore",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-10-10T18:51:48.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T18:51:48.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525a18216879f394648d782"
+  },
+  "name": "test last",
+  "email": "teslast@gmail.com",
+  "mobile": "9090909090",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Faridabad",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-10-10T19:09:54.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T19:09:54.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65280f16c8b8463a04f68135"
+  },
+  "name": "Dr Mukesh Test",
+  "email": "mukesh@gmail.com",
+  "mobile": "9898989898",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Faridabad",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-10-12T15:21:58.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T15:21:58.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bfd070996d5888c04fb69"
+  },
+  "name": "Dr. Nitesh Goyal",
+  "email": "niteshgoyalucms@gmail.com",
+  "mobile": "9818270644",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Bhiwani",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-10-15T14:53:59.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-15T14:53:59.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6538fbfa0ab8ecd3bd03575f"
+  },
+  "name": "Akash Deep Chandra",
+  "email": "akashdeep0894@gmail.com",
+  "mobile": "7206226113",
+  "gender": "Male",
+  "state": "Delhi",
+  "city": "New Delhi*",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-10-25T11:28:58.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-25T11:28:58.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6545c8986b10623e18ab0f69"
+  },
+  "name": "Pradeep kumar",
+  "email": "shineshashishekhar@gmail.com",
+  "mobile": "6387561085",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Robertsganj",
+  "profession": "Lab technician",
+  "createdAt": {
+    "$date": "2023-11-04T04:29:12.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-04T04:29:12.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654cfb86962ccb947ea1cf07"
+  },
+  "name": "Arden home health care ",
+  "email": "rijeshaluva@gmail.com",
+  "mobile": "9961724672",
+  "gender": "Male",
+  "state": "Kerala",
+  "city": "Thrissur",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-11-09T15:32:22.310Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T15:32:22.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654d5cbc962ccb947ea1d197"
+  },
+  "name": "KAILASH ACHARYA   DNP",
+  "email": "kailashachya@gmail.com",
+  "mobile": "+919818169054",
+  "gender": "Male",
+  "state": "Delhi",
+  "city": "Delhi",
+  "profession": "Nurse",
+  "createdAt": {
+    "$date": "2023-11-09T22:27:08.002Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-09T22:27:08.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6550ffa4962ccb947ea1e146"
+  },
+  "name": "Dr Wakar Shaikh ",
+  "email": "dr.wakarahmed@gmail.com",
+  "mobile": "8657804123",
+  "gender": "Male",
+  "state": "Maharashtra",
+  "city": "Amalner",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-11-12T16:39:00.554Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-12T16:39:00.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655364fc962ccb947ea1e93d"
+  },
+  "name": "Pavnesh Kumar ",
+  "email": "pavnesh580@gmail.com",
+  "mobile": "80778 70319 ",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Noida",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-11-14T12:15:56.910Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T12:15:56.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6554b7dc962ccb947ea1eebb"
+  },
+  "name": "Rajneesh Kushwaha",
+  "email": "rajneeshkushwaha@gmail.com",
+  "mobile": "09812554041",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Sonipat",
+  "profession": "Other",
+  "createdAt": {
+    "$date": "2023-11-15T12:21:48.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T12:21:48.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558c5f56fb004e93669fa73"
+  },
+  "name": "Pradeep kumar",
+  "email": "shineshashishekhar@gmail.com",
+  "mobile": "07521959923",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Renukoot",
+  "profession": "Lab technician",
+  "createdAt": {
+    "$date": "2023-11-18T14:11:01.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T14:11:01.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655b75bb6fb004e9366a0154"
+  },
+  "name": "Yas",
+  "email": "kumararvind8057@gmail.com",
+  "mobile": "Yass",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Sambhal",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-11-20T15:05:31.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T15:05:31.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655df4896fb004e9366a0f55"
+  },
+  "name": "rohit raj",
+  "email": "digitalutilization@gmail.com",
+  "mobile": "7599490885",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Noida",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-11-22T12:31:05.468Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T12:31:05.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f5a2986cd4941490b3302"
+  },
+  "name": "Dr zubair Akhtar ",
+  "email": "zubairakhtarkh99@gmail.com",
+  "mobile": "9919083453",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Bahraich",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-11-23T13:56:57.828Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T13:56:57.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656873f986cd4941490b7a47"
+  },
+  "name": "DHEERAJ CHHIPA",
+  "email": "chhipadheeraj434@gmail.com",
+  "mobile": "8619435652",
+  "gender": "Male",
+  "state": "Rajasthan",
+  "city": "Bhilwara",
+  "profession": "Lab technician",
+  "createdAt": {
+    "$date": "2023-11-30T11:37:29.439Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T11:37:29.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e96b356bfed2df67c8419"
+  },
+  "name": "Yogesh Kumar",
+  "email": "kumaryogesh7678@gmail.com",
+  "mobile": "09670096397",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Shahjahanpur",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2023-12-05T03:19:15.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T03:19:15.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b28a5bbc2dee1db319979"
+  },
+  "name": "Gaurav Shukla ",
+  "email": "gauravps1997@gmail.com",
+  "mobile": "9198172376",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Nautanwa",
+  "profession": "Other",
+  "createdAt": {
+    "$date": "2023-12-14T16:09:09.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T16:09:09.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65826f3fdd91bb436f731cef"
+  },
+  "name": "GAURAV SHUKLA",
+  "email": "gauravps1997@gmail.com",
+  "mobile": "09198172376",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Nautanwa",
+  "profession": "Other",
+  "createdAt": {
+    "$date": "2023-12-20T04:36:15.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T04:36:15.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65850db5a1cb8aa0e4125336"
+  },
+  "name": "HARI KRISHNA MEDICAL AND GENERAL STORES",
+  "email": "harikrishnamedical84@gmail.com",
+  "mobile": "8378976200",
+  "gender": "Male",
+  "state": "Maharashtra",
+  "city": "Panvel",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-12-22T04:16:53.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T04:16:53.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65850f18a1cb8aa0e4125396"
+  },
+  "name": "HARI KRISHNA MEDICAL AND GENERAL STORES",
+  "email": "harikrishnamedical84@gmail.com",
+  "mobile": "08378976200",
+  "gender": "Male",
+  "state": "Maharashtra",
+  "city": "Panvel",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-12-22T04:22:48.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T04:22:48.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65871d19947d0c34e928a674"
+  },
+  "name": "Yogesh kumar Sharma",
+  "email": "mr.yk87@gmail.com",
+  "mobile": "07668752212",
+  "gender": "Male",
+  "state": "Uttar Pradesh",
+  "city": "Agra",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2023-12-23T17:47:05.853Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T17:47:05.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a56e4463f7257f1cf59eed"
+  },
+  "name": "Sandip Shinde",
+  "email": "sandipbshinde441@gmail.com",
+  "mobile": "08208956619",
+  "gender": "Male",
+  "state": "Maharashtra",
+  "city": "Washim",
+  "profession": "Other",
+  "createdAt": {
+    "$date": "2024-01-15T17:41:24.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T17:41:24.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a7dc3ff50daf9fa06ad7cd"
+  },
+  "name": "JITENDRA DANGI",
+  "email": "jaidangi7566@gmail.com",
+  "mobile": "07566914919",
+  "gender": "Male",
+  "state": "Madhya Pradesh",
+  "city": "Bhopal",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2024-01-17T13:55:11.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T13:55:11.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8bae7f50daf9fa06adc29"
+  },
+  "name": "Daksh Singh",
+  "email": "Ashamedicos0@gmail.com",
+  "mobile": "09599247993",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Rewari",
+  "profession": "Chemist",
+  "createdAt": {
+    "$date": "2024-01-18T05:45:11.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T05:45:11.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af7d0d845f4fd449584a97"
+  },
+  "name": "Mukesh Jain",
+  "email": "dr.mukesh_jain@yahoo.com",
+  "mobile": "09654648910",
+  "gender": "Male",
+  "state": "Haryana",
+  "city": "Faridabad",
+  "profession": "Doctor",
+  "createdAt": {
+    "$date": "2024-01-23T08:47:09.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-23T08:47:09.157Z"
+  },
+  "__v": 0
+}]

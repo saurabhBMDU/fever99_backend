@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "651ac85cef347ade024bf32c"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "image": "files/image-1696254044700-996912794.jpg",
+  "name": "Dr. Divya Gupta",
+  "role": "Obstetrician & Gynaecologist",
+  "twitter": "jk",
+  "facebook": "j",
+  "linkedin": "kjk",
+  "instagram": "jj",
+  "type": "medical",
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-02T13:40:44.730Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T11:26:06.917Z"
+  },
+  "__v": 0,
+  "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+},
+{
+  "_id": {
+    "$oid": "651ac892ef347ade024bf32f"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "image": "files/image-1696254098539-234559957.png",
+  "name": "Dr. Mrunalini",
+  "role": "Homeopathic Consultant",
+  "twitter": null,
+  "facebook": null,
+  "linkedin": null,
+  "instagram": null,
+  "type": "medical",
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-02T13:41:38.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T13:41:38.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ac8b3ef347ade024bf332"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "image": "files/image-1696254131681-34728741.png",
+  "name": "Dr. Rohit Thakkar",
+  "role": "Sr. Orthopaedic & Joint Replacement Surgeon",
+  "twitter": null,
+  "facebook": null,
+  "linkedin": null,
+  "instagram": null,
+  "type": "medical",
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-02T13:42:11.704Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T13:42:11.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ac8ceef347ade024bf335"
+  },
+  "userId": {
+    "$oid": "64dd083f26c299827b6c0e38"
+  },
+  "image": "files/image-1696254158196-83539025.png",
+  "name": "Dr. Juli Juneja",
+  "role": "OBS & Gynaecologist",
+  "twitter": null,
+  "facebook": null,
+  "linkedin": null,
+  "instagram": null,
+  "type": "medical",
+  "status": "active",
+  "createdAt": {
+    "$date": "2023-10-02T13:42:38.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T13:42:38.215Z"
+  },
+  "__v": 0
+}]
